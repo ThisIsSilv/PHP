@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: rick-
- * Date: 27-2-2019
- * Time: 10:08
- */
-
 
 $a = "die geen fout";
 $b = "en ";
