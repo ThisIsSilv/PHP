@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: rick-
- * Date: 27-2-2019
- * Time: 11:07
- */
-
 
 
 $a = "ry";
