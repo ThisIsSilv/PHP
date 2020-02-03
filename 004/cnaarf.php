@@ -10,11 +10,11 @@
 
 
 
-echo CNaarF(26);
+echo Temperatuurding(26);
 
 
 
-function CNaarF($a){
+function Temperatuurding($a){
     $b = $a *1.8 + 32;
     return $b;
 }
