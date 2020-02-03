@@ -10,10 +10,10 @@
 
 
 
-echo reverse("yag tneb ej");
+echo Switcheroo("yag tneb ej");
 
 
-function reverse($string){
+function Switcheroo($string){
     return strrev($string);
 }
 
