@@ -10,11 +10,11 @@
 
 
 
-echo Temperatuurding(26);
+echo Temperaturding(26);
 
 
 
-function Temperatuurding($a){
+function Temperaturding($a){
     $b = $a *1.8 + 32;
     return $b;
 }
