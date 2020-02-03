@@ -10,10 +10,10 @@
 
 
 
-echo deelbaarDoorDrie(48);
+echo deeeeeeeeel(48);
 
 
-function deelbaarDoorDrie($a){
+function deeeeeeeeel($a){
     if($a % 3 == 0){
         return "true";
     }else{
