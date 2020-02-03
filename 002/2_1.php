@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: rick-
- * Date: 27-2-2019
- * Time: 10:05
- */
+
 
 $a = "Ik heb niet gefaald";
 $b = "die niet werken";
