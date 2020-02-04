@@ -17,9 +17,9 @@
 
 for($i = 1; $i <= 9; $i++){
     if($i % 2 == 0){
-        echo "<img class='red' src='imgs/skelly".$i.".gif'>";
+        echo "<img class='purple' src='imgs/skelly".$i.".gif'>";
     }else{
-        echo "<img class='green' src='imgs/skelly".$i.".gif'>";
+        echo "<img class='yellow' src='imgs/skelly".$i.".gif'>";
     }
 }
 
