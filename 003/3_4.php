@@ -1,10 +1,10 @@
 <head>
     <style>
-        .red{
-            border: 3px solid red;
+        .purple{
+            border: 3px solid purple;
         }
-        .green{
-            border: 3px solid green;
+        .yellow{
+            border: 3px solid yellow;
         }
     </style>
 </head>
@@ -17,9 +17,9 @@
 
 for($i = 1; $i <= 9; $i++){
     if($i % 2 == 0){
-        echo "<img class='red' src='imgs/cat".$i.".jpeg'>";
+        echo "<img class='red' src='imgs/skelly".$i.".gif'>";
     }else{
-        echo "<img class='green' src='imgs/cat".$i.".jpeg'>";
+        echo "<img class='green' src='imgs/skelly".$i.".gif'>";
     }
 }
 
